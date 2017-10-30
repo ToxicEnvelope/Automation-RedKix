@@ -1,0 +1,32 @@
+[
+  {
+    "email" : "qatest4@redkix.com",
+    "password":"Redkix999",
+    "serviceType":"EXCHANGE"
+  },
+  {
+    "email" : "qatest6@redkix.com",
+    "password":"Redkix111",
+    "serviceType":"EXCHANGE"
+  },
+  {
+    "email" : "qatest7@redkix.com",
+    "password":"Redkix111",
+    "serviceType":"EXCHANGE"
+  },
+  {
+    "email" : "qa.test.rdx1@gmail.com",
+    "password":"Redkix111",
+    "serviceType":"GMAIL"
+  },
+  {
+    "email" : "qa.test.rdx2@gmail.com",
+    "password":"Redkix111",
+    "serviceType":"GMAIL"
+  },
+  {
+    "email" : "qa.test.rdx3@gmail.com",
+    "password":"Redkix111",
+    "serviceType":"GMAIL"
+  }
+]
